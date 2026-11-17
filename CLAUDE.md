@@ -83,6 +83,7 @@ docs/04-match-emprendedoras.md
 docs/05-arquitectura-e-integraciones.md
 docs/06-personas-y-journeys.md
 docs/07-metricas-y-moderacion.md
+docs/backlog.md                ← ideas guardadas para después
 docs/decisiones/               ← ADRs (crear al tomar decisiones)
 .claude/skills/*/SKILL.md      ← skills por frente de trabajo
 prompts/                       ← prompts listos para pegar en Claude Code / Claude Design
